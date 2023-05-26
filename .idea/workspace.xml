@@ -5,29 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5195d57e-4b7d-4772-bc88-582488bca4a8" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/curs3/GreatestOfThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs3/ParSauImpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs3/StaticVsNonStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs3/StaticVsNonStatic2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs3/StringComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs3/TestGreatestOfThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs3/TestParSauImpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs3/TestStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs4/ConditionalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs4/ForExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs4/ForExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs4/IncrementDecrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs4/LetterSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs4/Palnidrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs4/TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs5/DiceGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs5/DoWhileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teme/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teme/TestShape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Curs1/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curs1/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Curs1/WageCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curs1/WageCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/curs2/IfElseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curs2/IfElseExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/curs2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curs2/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/curs2/TestRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curs2/TestRectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +23,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="8ba82be5-60fb-42bf-8de9-e10af748aa1d" />
+        <option name="url" value="https://github.com/bluescoik89/Curs_Selenium.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/curs2/Rectangle.java" root0="SKIP_INSPECTION" />
