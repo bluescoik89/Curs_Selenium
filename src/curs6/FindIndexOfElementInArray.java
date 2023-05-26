@@ -15,11 +15,11 @@ public class FindIndexOfElementInArray {
     public static void main(String[] args) {
         System.out.println("----FOR");
         rezolvareCuFor(8);
-        System.out.println("----FOR");
+        System.out.println("----FOREACH");
         rezolvareCuForEach(8);
-        System.out.println("----FOR");
+        System.out.println("----While");
         rezolvareCuWhile(8);
-        System.out.println("----FOR");
+        System.out.println("----DoWhile");
         rezolvareCuDo(8);
 
 
@@ -27,8 +27,7 @@ public class FindIndexOfElementInArray {
 
 
     public static void rezolvareCuFor(int element) {
-        for (int i = 0; i < numbers.length; i++) ;
-        {
+        for (int i = 0; i < numbers.length; i++) {
             if (numbers[i] == element) {
                 System.out.println("Index pentru " + element + " este " + i);
             }
@@ -54,17 +53,17 @@ public class FindIndexOfElementInArray {
             }
             i++;
         }
-
-        public static void rezolvareCuDoWhile(int number){
-            int i=0;
-            do{
-                if (numbers[i] == number)
-                {
-                    System.out.println("Index pentru " + number + " este " + i);
-                }
-                i++;
-            } while (i < numbers.length);
-        }
     }
 
+    public static void rezolvareCuDo(int number) {
+        int j = 0;
+        do {
+            if (numbers[j] == number) {
+                System.out.println("Index pentru " + number + " este " + j);
+            }
+            j++;
+        } while (j < numbers.length);
+    }
 }
+
+
