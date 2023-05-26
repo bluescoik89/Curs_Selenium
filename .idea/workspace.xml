@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5195d57e-4b7d-4772-bc88-582488bca4a8" name="Changes" comment="sync update">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TemaCurs3/DaysOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TemaCurs3/Score.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TemaCurs3/TestDaysOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TemaCurs3/TestScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TemaCurs3/TestVerifyAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TemaCurs3/VerifyAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs6/SwitchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs6/SwitchExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs6/SwitchExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs6/SwitchExample4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685081097079</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sync update">
+      <created>1685093948094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685093948094</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
