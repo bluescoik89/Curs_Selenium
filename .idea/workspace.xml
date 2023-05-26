@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5195d57e-4b7d-4772-bc88-582488bca4a8" name="Changes" comment="sync update">
-      <change afterPath="$PROJECT_DIR$/src/curs6/SwitchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs6/SwitchExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs6/SwitchExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs6/SwitchExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs6/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs6/FindIndexOfElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs6/ForEachExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
