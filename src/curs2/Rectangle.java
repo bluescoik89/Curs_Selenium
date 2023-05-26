@@ -1,18 +1,34 @@
 package curs2;
 
 public class Rectangle {
-    //variable
-    private int length, width;
-    //constructor
-    public Rectangle(int length, int width){
-        this.length = length;
-        this.width = width;
+    //variabile
+    private int lenght;
+    private int width;
 
+    //constructor
+    public Rectangle(int lenght, int width) {
+        this.lenght = lenght;
+        this.width = width;
     }
 
     //metoda
-    public int calculateArea(){
-        return length*width;
+    public int calculateArea() {
+        return lenght * width;
     }
-
 }
+
+/*
+ * clasa Driver --> Chrome = driver
+ *
+ * clasa de PageObjects
+ * public PageObjects(driver){
+ * this.driver = driver}
+ *
+ * buton Bakery = driver.findElement(locator);
+ *
+ * clase de Test
+ * PageObject obj = new PageObject(driver)
+ * obj.Bakery.click();
+ *
+ *
+ */

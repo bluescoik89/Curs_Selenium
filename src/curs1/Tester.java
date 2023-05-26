@@ -1,4 +1,4 @@
-package Curs1;
+package curs1;
 // one line comment
 
 /*
@@ -18,16 +18,35 @@ public class Tester {
     public String getNume() {
         return nume;
     }
-
     //setter
     public void setNume(String nume) {
         this.nume = nume;
     }
-
-    //constructor este in sine o metoda
+    //constructor
+    //public Tester() {}
 
     public Tester(String nume, int rate) {
         setNume(nume);
         ratePerHour = rate;
     }
+
+    public Tester(String nume, int rate, int numar) {
+        setNume(nume);
+        ratePerHour = rate;
+    }
+
+
+
+    //Tester obj = new Tester();
+    /*
+     * Tester --Numele clasei
+     * obj - numele obiect
+     * =  - operator de atriburie
+     * new - cuvant cheie in java care ne ajuta sa instantiem o clasa
+     * Tester() - constructor
+     */
+
+    //Tester obj = new Tester();
+    //obj.setNume("Oana");
+
 }

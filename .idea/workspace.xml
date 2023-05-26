@@ -4,18 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5195d57e-4b7d-4772-bc88-582488bca4a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curs Selenium TestNG.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Curs1/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Curs1/WageCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/curs2/TestRectangle.java" afterDir="false" />
+    <list default="true" id="5195d57e-4b7d-4772-bc88-582488bca4a8" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/curs3/GreatestOfThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs3/ParSauImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs3/StaticVsNonStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs3/StaticVsNonStatic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs3/StringComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs3/TestGreatestOfThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs3/TestParSauImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs3/TestStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs4/ConditionalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs4/ForExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs4/ForExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs4/IncrementDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs4/LetterSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs4/Palnidrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs4/TernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs5/DiceGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs5/DoWhileExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curs1/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curs1/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Curs1/WageCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curs1/WageCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/curs2/IfElseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curs2/IfElseExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/curs2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curs2/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/curs2/TestRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/curs2/TestRectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +44,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/curs2/Rectangle.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -43,12 +58,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Home\IdeaProjects\Curs Selenium TestNG\src\curs3" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,5 +79,16 @@
       <updated>1683635989970</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
