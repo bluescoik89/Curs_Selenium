@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5195d57e-4b7d-4772-bc88-582488bca4a8" name="Changes" comment="sync update">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_05_2023_08_23__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_05_2023_08_23__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs7/Angajat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs7/Patrat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs7/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs7/TestMostenire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs7/TestShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs7/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/curs7/TesterAutomat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
